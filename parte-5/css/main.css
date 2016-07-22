@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	height: 200px;
+	width: 200px;
+	position: absolute;
+}
+
+.caja-uno {
+	background-color: #ee3e64;
+	left: 0;
+	top: 0;
+}
+
+.caja-dos {
+	background-color: #44accf;
+	right: 0;
+	top: 0;
+}
+
+.caja-tres {
+	background-color: #b7d64b;
+	left: 0;
+	bottom: 0;
+}
+.caja-cuatro {
+	background-color: #EAF807;
+	right: 0;
+	bottom: 0;
+}

@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	height: 200px;
+	width: 200px;
+	position: static;
+}
+
+.caja-uno {
+	background-color: #ee3e64;
+}
+
+.caja-dos {
+	background-color: #44accf;
+}
+
+.caja-tres {
+	background-color: #b7d64b;
+}
